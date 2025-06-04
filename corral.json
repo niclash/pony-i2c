@@ -1,10 +1,10 @@
 {
   "packages": [
-    "embed"
+    "i2c"
   ],
   "deps": [],
   "info": {
-    "description": "",
+    "description": "Pony bindings for generic kernal I2C access.",
     "homepage": "",
     "license": "",
     "documentation_url": "",
